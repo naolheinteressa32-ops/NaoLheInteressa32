@@ -1,7 +1,5 @@
 # Olá, meu nome é Antônio Fernandes
 <img src="https://static.wikia.nocookie.net/villainous-benchmark/images/b/b2/DexterMorgan1.webp/revision/latest?cb=20250511150445" width="400">
-<br>
-<br>
 
 # 💡Sobre Mim
 <p style="font-size: 20;">Sou um estudante de Ciências da Computação, do 2º período, buscando experiência, conhecimento e conexões dentro do mercado de TI.</p>
